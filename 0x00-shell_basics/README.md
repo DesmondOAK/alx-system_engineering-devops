@@ -7,3 +7,6 @@ ls - lists contents of the directory
 #!/bin/bash - Execute the file using the Bash Shell
  cd ~
 
+#!/bin/bash - Execute the file sing the Bash Shell
+ls -l - display the contents of directory in long format
+
