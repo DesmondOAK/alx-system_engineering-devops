@@ -10,3 +10,8 @@ ls - lists contents of the directory
 #!/bin/bash - Execute the file sing the Bash Shell
 ls -l - display the contents of directory in long format
 
+
+#!/bin/bash - Execute the file sing the Bash Shell
+. ls -a  - Display current directory contents, including hidden files 
+
+
