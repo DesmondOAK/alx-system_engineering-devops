@@ -1,5 +1,2 @@
-#!/bin/bash - execute files as a Bash Shell
-ls -a - display contents of directory including hidden files
-
-#!/bin/bash - execute files as a Bash Shell
-ls -h - Display current directory contents in long formats,user and group ID and hidden files
+#!/bin/bash - execute file as a bash shell
+ls -lh - display current directory content in long format,with user and group IDs and and hidden files
