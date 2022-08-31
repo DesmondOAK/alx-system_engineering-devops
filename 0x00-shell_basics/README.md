@@ -7,4 +7,6 @@ cd -, change directory to previous
 #!/bin/bash -execute files as Bash Shell
 ls -la . ../boot -list files
 #!/bin/bash -execute files as Bash Shell
-file /tmp/iamafile -Write a script that prints the type of the file named iamafile 
+file /tmp/iamafile -Write a script that prints the type of the file named iamafile
+#!/bin/bash -execute files as Bash Shell
+ln -s /bin/ls _ls_ - create a symbolic link 
