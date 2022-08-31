@@ -1,3 +1,2 @@
-#!/bin/bash - Execute the file as a Bash Shell
-.ls -a - list all directory content including hidden files
-
+#!/bin/bash - execute files as a Bash Shell
+ls -a - display contents of directory including hidden files
