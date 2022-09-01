@@ -13,4 +13,6 @@ ln -s __ls__ /#!/bin/bash -execute files as Bash Shell
 #!/bin/bash -execute files as Bash Shell
 cp -r ua *.html - copy all html files
 #!/bin/bash -execute files as Bash Shell
-mv [:upper:] /tmp/u - moves uppercase characters 
+mv [:upper:] /tmp/u - moves uppercase characters
+#!/bin/bash -execute files as Bash Shell
+rm *~ -removes files with ~ 
