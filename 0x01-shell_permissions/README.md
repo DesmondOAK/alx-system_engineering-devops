@@ -4,4 +4,5 @@ id -un  -prints effective user id
 id -Gn  - prints all groups user is in
 sudo chown betty hello
 touch hello
-u+x
+chmod u+x
+chmod u+x go=rx hello
