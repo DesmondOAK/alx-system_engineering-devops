@@ -11,5 +11,5 @@ file /tmp/iamafile -Write a script that prints the type of the file named iamafi
 #!/bin/bash -execute files as Bash Shell
 ln -s __ls__ /bin/ls - create a symbolic link
 #!/bin/bash -execute files as Bash Shell
-cp -rua *.html - copy all html files
+cp -r ua *.html - copy all html files
 
