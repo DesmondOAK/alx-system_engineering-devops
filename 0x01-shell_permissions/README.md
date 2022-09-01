@@ -7,4 +7,5 @@ touch hello
 chmod u+x
 chmod ug+x,o+r hello
 chmod a+x hello
-chmod o+rwx
+chmod 007 hello
+chmod 753 hello
