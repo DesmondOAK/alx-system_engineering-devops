@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -rua *.html 0x00-shell_basics/tmp/
+cp -rua *.html /tmp/0x00-shell_basics/
