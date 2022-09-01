@@ -5,4 +5,5 @@ id -Gn  - prints all groups user is in
 sudo chown betty hello
 touch hello
 chmod u+x
-chmod u+x go=rx hello
+chmod ug+x,o+r hello
+chmod a+x
