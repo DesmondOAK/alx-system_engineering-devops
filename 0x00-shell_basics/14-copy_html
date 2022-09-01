@@ -1,2 +1,3 @@
 #!/bin/bash
-cp -r /tmp/*.html/0x00-shell_basics
+cp -r *.html/tmp/0x00-shell_basics
+
