@@ -1,2 +1,2 @@
 #!/bin/bash 
-wc head i-n 3 iacta
+wc head -n 3 iacta
