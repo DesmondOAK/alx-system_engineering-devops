@@ -1,2 +1,2 @@
-#!/bin/bash 
-wc head -n 3 iacta
+#!/bin/bash
+head -n 3 wc iacta
