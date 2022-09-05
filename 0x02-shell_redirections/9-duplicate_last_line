@@ -1,2 +1,2 @@
 #!/bin/bash 
-ls iacta|uniq-c
+head -n3 iacta
